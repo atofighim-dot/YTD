@@ -1,19 +1,4 @@
-# DOWNLOADED VIDEOS LIST :
+# سلام
+هنوز هیچ ویدیویی اینجا نیست
 
-----
-
-- 1 - 🎬 [S02E010-لنزهای-مکانیکی-و-فوکوس-با-سیم](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E010-%D9%84%D9%86%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9%DB%8C-%D9%88-%D9%81%D9%88%DA%A9%D9%88%D8%B3-%D8%A8%D8%A7-%D8%B3%DB%8C%D9%85)
-- 2 - 🎬 [S02E011-لنز-ماکرو](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E011-%D9%84%D9%86%D8%B2-%D9%85%D8%A7%DA%A9%D8%B1%D9%88)
-- 3 - 🎬 [S02E05-پیکچر-پروفایل.f251](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E05-%D9%BE%DB%8C%DA%A9%DA%86%D8%B1-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84.f251)
-- 4 - 🎬 [S02E05-پیکچر-پروفایل.f299](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E05-%D9%BE%DB%8C%DA%A9%DA%86%D8%B1-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84.f299)
-- 5 - 🎬 [S02E05-پیکچر-پروفایل](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E05-%D9%BE%DB%8C%DA%A9%DA%86%D8%B1-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84)
-- 6 - 🎬 [S02E06-مودهای-فوکوس-اتومات](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E06-%D9%85%D9%88%D8%AF%D9%87%D8%A7%DB%8C-%D9%81%D9%88%DA%A9%D9%88%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA)
-- 7 - 🎬 [S02E07-متریک‌-مودها-و-اولویت‌ها](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E07-%D9%85%D8%AA%D8%B1%DB%8C%DA%A9%E2%80%8C-%D9%85%D9%88%D8%AF%D9%87%D8%A7-%D9%88-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA%E2%80%8C%D9%87%D8%A7)
-- 8 - 🎬 [S02E08-منوی-دوربین‌های-سونی](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E08-%D9%85%D9%86%D9%88%DB%8C-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%B3%D9%88%D9%86%DB%8C)
-- 9 - 🎬 [S02E09-تایم‌لپس-و-هایپرلپس](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E09-%D8%AA%D8%A7%DB%8C%D9%85%E2%80%8C%D9%84%D9%BE%D8%B3-%D9%88-%D9%87%D8%A7%DB%8C%D9%BE%D8%B1%D9%84%D9%BE%D8%B3)
-- 10 - 🎬 [S02E12-بکگراند-در-لنزهای-مختلف](https://github.com/atofighim-dot/YTD/tree/main/videos/S02E12-%D8%A8%DA%A9%DA%AF%D8%B1%D8%A7%D9%86%D8%AF-%D8%AF%D8%B1-%D9%84%D9%86%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D8%AE%D8%AA%D9%84%D9%81)
-- 11 - 🎬 [آموزش-کامل-Expressions-در-n8n-｜-از-صفر-تا-صد-با-مثال-عملی](https://github.com/atofighim-dot/YTD/tree/main/videos/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-Expressions-%D8%AF%D8%B1-n8n-%EF%BD%9C-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1-%D8%AA%D8%A7-%D8%B5%D8%AF-%D8%A8%D8%A7-%D9%85%D8%AB%D8%A7%D9%84-%D8%B9%D9%85%D9%84%DB%8C)
-- 12 - 🎬 [با-این-۲۰-نود-طلایی-،-استاد-n8n-شو!-🔥(-آموزش-کامل-n8n-)](https://github.com/atofighim-dot/YTD/tree/main/videos/%D8%A8%D8%A7-%D8%A7%DB%8C%D9%86-%DB%B2%DB%B0-%D9%86%D9%88%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF-n8n-%D8%B4%D9%88%21-%F0%9F%94%A5%28-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-n8n-%29)
-- 13 - 🎬 [چطور-از-اتوماسیون-های-هوش-مصنوعی-کسب-درآمد-کنیم؟!](https://github.com/atofighim-dot/YTD/tree/main/videos/%DA%86%D8%B7%D9%88%D8%B1-%D8%A7%D8%B2-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DA%A9%D8%B3%D8%A8-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%DA%A9%D9%86%DB%8C%D9%85%D8%9F%21)
-- 14 - 🎬 [چطور-مشکلاتت-رو-با-این-7-مهارت-حل-کنی؟](https://github.com/atofighim-dot/YTD/tree/main/videos/%DA%86%D8%B7%D9%88%D8%B1-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%D8%AA-%D8%B1%D9%88-%D8%A8%D8%A7-%D8%A7%DB%8C%D9%86-7-%D9%85%D9%87%D8%A7%D8%B1%D8%AA-%D8%AD%D9%84-%DA%A9%D9%86%DB%8C%D8%9F)
-- 15 - 🎬 [کامل‌ترین-آموزش-Claude-AI-در-2026-｜-ساخت-سایت،-برنامه‌نویسی-و-AI-Agent-با-Claude-Code](https://github.com/atofighim-dot/YTD/tree/main/videos/%DA%A9%D8%A7%D9%85%D9%84%E2%80%8C%D8%AA%D8%B1%DB%8C%D9%86-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-Claude-AI-%D8%AF%D8%B1-2026-%EF%BD%9C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D8%A7%DB%8C%D8%AA%D8%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88-AI-Agent-%D8%A8%D8%A7-Claude-Code)
+---
